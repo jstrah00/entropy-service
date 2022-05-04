@@ -16,6 +16,15 @@ pip3 install flask
 pip3 install flask_cors
 ```
 
+Another way is to install them directly from the requirements file
+```bash
+pip install -r requirements.txt
+```
+or
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Run project
 
 To run the project locally, run:
