@@ -4,14 +4,16 @@ Microservice to generate file entropy reports
 
 ## Requirements
 
-The only requirement is Flask library. Can be installed with [pip](https://pip.pypa.io/en/stable/).
+The only requirement is Flask library, and flask_cors. Can be installed with [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
 pip install flask
+pip install flask_cors
 ```
 or
 ```bash
 pip3 install flask
+pip3 install flask_cors
 ```
 
 ## Run project
