@@ -37,7 +37,7 @@ Once running, the web client can be found on http://0.0.0.0:8080/
 # API Documentation
 
 ## Ping
-/ping
+/ping [GET]
 
 ### Parameters
 None
@@ -57,7 +57,7 @@ Code: 500
 Description: There was an error
 
 ## Entropy
-/API/entropy
+/API/entropy [POST]
 
 ### Parameters
 None
